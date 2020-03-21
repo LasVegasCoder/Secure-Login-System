@@ -1,0 +1,6 @@
+<?php
+
+
+  // database goes here.
+  
+ ?>
